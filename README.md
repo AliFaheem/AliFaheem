@@ -1,13 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ali Faheem</h1>
-<h3 align="center"> NLP PhD researcher from Pakistan.</h3>
+# Hi, I'm Ali Faheem 👋
 
-- 🔭 I’m currently working on **Multi-modal Text Summarization**
+**Senior AI Engineer · NLP PhD (LUMS)**: I build RAG systems, agentic AI workflows, and NLP for low-resource languages.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ali-faheem-49853193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-faheem-49853193" height="30" width="40" /></a>
+I like taking LLM ideas from a research paper all the way to production: retrieval pipelines, evaluation frameworks, and cloud infrastructure that holds up at scale.
+
+### 🔭 What I work on
+- **Agentic AI**: autonomous agents that plan, retrieve, and write long-form documents (100+ pages) with live, verifiable citations
+- **RAG & Retrieval**: multi-source retrieval layers, per-claim citation grounding, and RAG-based evaluation/scoring systems
+- **Medical & Clinical AI**: LLM tools for clinical research and medical question answering
+- **Low-resource NLP**: Urdu and Roman-Urdu NLP, cross-lingual embedding alignment, multilingual benchmarks
+
+### 📚 Research highlights
+- **Beyond Fine-Tuning**: training-free Procrustes alignment of multilingual embeddings for cross-lingual retrieval *(SIGUL @ LREC 2026)*
+- **U-MIRAGE**: the first Urdu/Roman-Urdu medical QA benchmark, evaluating CoT reasoning across 6 LLMs *(AbjadNLP @ EACL 2026)*
+- **POS Tagging in Roman Urdu**: datasets and models *(Language Resources and Evaluation, 2025)*
+- 6+ more peer-reviewed papers (LREC-COLING, TALLIP, EMNLP, AIAI). Full list on Google Scholar
+
+### 🛠️ Tech stack
+- **ML & AI:** PyTorch · HuggingFace Transformers · LlamaIndex · LLMs · RAG · Agentic Workflows · Whisper · Ollama
+- **Cloud:** AWS (Bedrock, Lambda, EC2, S3, EventBridge) · GCP (Vertex AI, Cloud Run, Kubeflow)
+- **Backend & Data:** FastAPI · ChromaDB · SQL · BigQuery
+- **DevOps:** Docker · Kubernetes · CI/CD · Git
+- **Languages:** Python · SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,aws,gcp,docker,kubernetes,fastapi,git,linux&theme=dark" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
